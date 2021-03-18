@@ -1,0 +1,29 @@
+"*":
+  "atom-clock":
+    dateFormat: "HH:mm - DD:MM:YYYY"
+    locale: "de"
+    showClockIcon: true
+    showTooltip: true
+  "atom-material-ui":
+    colors:
+      abaseColor: "#00e1cc"
+      accentColor: "#009486"
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "one-dark-syntax"
+    ]
+    titleBar: "hidden"
+    uriHandlerRegistration: "always"
+  editor:
+    scrollPastEnd: true
+    tabLength: 4
+  "linter-ui-default":
+    showPanel: true
+  "spell-check":
+    locales: [
+      "de-CH"
+    ]
+  welcome:
+    showOnStartup: false

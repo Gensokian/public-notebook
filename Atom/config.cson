@@ -25,5 +25,7 @@
     locales: [
       "de-CH"
     ]
+  "tree-view":
+    squashDirectoryNames: true
   welcome:
     showOnStartup: false

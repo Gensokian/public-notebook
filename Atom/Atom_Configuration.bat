@@ -2,7 +2,7 @@
 echo Is atom installed on your system? If no, please install it first before running this program!
 pause
 
-apm install atom-beautify file-icons minimap markdown-preview-enhanced atom-material-ui language-batchfile language-powershell title-bar-replacer linter linter-ui-default intentions busy-signal teletype atom-clock
+apm install atom-beautify markdown-preview-enhanced linter-ui-default teletype minimap linter atom-clock file-icons atom-material-ui title-bar-replacer intentions language-batchfile busy-signal language-powershell 
 
 rem Whoops...
 rem del %USERPROFILE%/.atom/config.cson

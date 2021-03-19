@@ -21,6 +21,9 @@
     tabLength: 4
   "linter-ui-default":
     showPanel: true
+  "markdown-preview-enhanced":
+    enableHTML5Embed: true
+    enableScriptExecution: true
   "spell-check":
     locales: [
       "de-CH"

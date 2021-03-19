@@ -11,6 +11,8 @@
   autosave:
     enabled: true
   core:
+    closeDeletedFileTabs: true
+    closeEmptyWindows: false
     telemetryConsent: "no"
     themes: [
       "atom-material-ui"
@@ -28,6 +30,9 @@
   "markdown-preview-enhanced":
     enableHTML5Embed: true
     enableScriptExecution: true
+    previewPanePosition: "down"
+    previewTheme: "one-dark.css"
+    singlePreview: false
   minimap:
     scrollAnimation: true
   "spell-check":

@@ -8,6 +8,8 @@
     colors:
       abaseColor: "#00e1cc"
       accentColor: "#009486"
+  autosave:
+    enabled: true
   core:
     telemetryConsent: "no"
     themes: [
@@ -19,11 +21,15 @@
   editor:
     scrollPastEnd: true
     tabLength: 4
+  "file-icons":
+    onChanges: true
   "linter-ui-default":
     showPanel: true
   "markdown-preview-enhanced":
     enableHTML5Embed: true
     enableScriptExecution: true
+  minimap:
+    scrollAnimation: true
   "spell-check":
     locales: [
       "de-CH"

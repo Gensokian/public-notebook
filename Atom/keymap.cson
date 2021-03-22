@@ -1,0 +1,7 @@
+'.platform-win32, .platform-linux':
+  'f4': 'window:toggle-left-dock'
+  'f6': 'window:toggle-right-dock'
+  'f5': 'window:toggle-bottom-dock'
+#  'f4': 'tree-view:toggle'
+'atom-text-editor':
+  'f12': 'markdown-preview-enhanced:toggle-zen-mode'

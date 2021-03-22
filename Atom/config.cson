@@ -3,7 +3,6 @@
     dateFormat: "HH:mm - DD:MM:YYYY"
     locale: "de"
     showClockIcon: true
-    showTooltip: true
   "atom-material-ui":
     colors:
       abaseColor: "#00e1cc"

@@ -8,6 +8,9 @@
     colors:
       abaseColor: "#00e1cc"
       accentColor: "#009486"
+  "auto-update-plus":
+    intervalMinutes: 15
+    notificationStyle: "Info"
   autosave:
     enabled: true
   core:

@@ -1,26 +1,25 @@
 @echo off
 apm install ^
-auto-update-plus ^
 atom-beautify ^
-markdown-preview-enhanced ^
-linter-ui-default ^
-teletype ^
-minimap ^
-minimap-bookmarks ^
-minimap-codeglance ^
-minimap-selection ^
-minimap-autohider ^
-minimap-git-diff ^
-minimap-lens ^
-linter ^
 atom-clock ^
-file-icons ^
 atom-material-ui ^
-title-bar-replacer ^
+auto-update-plus ^
+busy-signal ^
+file-icons ^
 intentions ^
 language-batchfile ^
-busy-signal ^
-language-powershell
+language-powershell ^
+linter ^
+linter-ui-default ^
+markdown-preview-enhanced ^
+minimap ^
+minimap-autohider ^
+minimap-bookmarks ^
+minimap-git-diff ^
+minimap-lens ^
+minimap-selection ^
+teletype ^
+title-bar-replacer
 
 rem Whoops...
 rem del %USERPROFILE%/.atom/config.cson

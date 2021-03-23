@@ -25,8 +25,6 @@
   editor:
     scrollPastEnd: true
     tabLength: 4
-  "exception-reporting":
-    userId: "f444eb04-9db9-4229-ab64-39e0e4203d6c"
   "file-icons":
     onChanges: true
   "markdown-preview-enhanced":
@@ -35,6 +33,15 @@
     previewPanePosition: "down"
     previewTheme: "one-dark.css"
     singlePreview: false
+  minimap:
+    absoluteMode: true
+    adjustMinimapWidthOnlyIfSmaller: false
+    minimapScrollIndicator: true
+    scrollAnimation: true
+    smoothScrolling: true
+  "minimap-autohider":
+    TimeToHide: 7500
+    TransitionDuration: 250
   script:
     ignoreSelection: true
     stopOnRerun: true

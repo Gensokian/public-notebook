@@ -9,6 +9,7 @@ apm install markdown-preview-enhanced
 apm install linter-ui-default
 apm install teletype
 apm install minimap
+apm install minimap-autohider
 apm install linter
 apm install atom-clock
 apm install file-icons

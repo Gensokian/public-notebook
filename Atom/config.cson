@@ -37,6 +37,17 @@
     absoluteMode: true
     adjustMinimapWidthOnlyIfSmaller: false
     minimapScrollIndicator: true
+    plugins:
+      bookmarks: true
+      bookmarksDecorationsZIndex: 0
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      "lens-mode": true
+      "lens-modeDecorationsZIndex": 0
+      "minimap-autohider": true
+      "minimap-autohiderDecorationsZIndex": 0
+      selection: true
+      selectionDecorationsZIndex: 0
     scrollAnimation: true
     smoothScrolling: true
   "minimap-autohider":

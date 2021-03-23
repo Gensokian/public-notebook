@@ -2,6 +2,7 @@
 apm install ^
 atom-beautify ^
 atom-clock ^
+atom-discord ^
 atom-material-ui ^
 auto-update-plus ^
 busy-signal ^

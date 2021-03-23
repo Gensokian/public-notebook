@@ -42,9 +42,6 @@
   "minimap-autohider":
     TimeToHide: 7500
     TransitionDuration: 250
-  script:
-    ignoreSelection: true
-    stopOnRerun: true
   "spell-check":
     locales: [
       "de-CH"

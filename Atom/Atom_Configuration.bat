@@ -1,29 +1,30 @@
 @echo off
-echo Is atom installed on your system? If no, please install it first before running this program!
-pause
-
-apm install auto-update-plus
-apm install script
-apm install atom-beautify
-apm install markdown-preview-enhanced
-apm install linter-ui-default
-apm install teletype
-apm install minimap
-apm install minimap-autohider
-apm install linter
-apm install atom-clock
-apm install file-icons
-apm install atom-material-ui
-apm install title-bar-replacer
-apm install intentions
-apm install language-batchfile
-apm install busy-signal
-apm install language-powershell
+apm install ^
+auto-update-plus ^
+atom-beautify ^
+markdown-preview-enhanced ^
+linter-ui-default ^
+teletype ^
+minimap ^
+minimap-bookmarks ^
+minimap-codeglance ^
+minimap-selection ^
+minimap-autohider ^
+minimap-git-diff ^
+minimap-lens ^
+linter ^
+atom-clock ^
+file-icons ^
+atom-material-ui ^
+title-bar-replacer ^
+intentions ^
+language-batchfile ^
+busy-signal ^
+language-powershell
 
 rem Whoops...
 rem del %USERPROFILE%/.atom/config.cson
 rem copy ./config.cson %USERPROFILE%/.atom/config.cson
-atom
 
 echo Finished installing Atom-James edition. Press any key to close!
 echo You probably want to set-up Teletype and Github now...

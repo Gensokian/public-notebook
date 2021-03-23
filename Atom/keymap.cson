@@ -5,3 +5,5 @@
 #  'f4': 'tree-view:toggle'
 'atom-text-editor':
   'f12': 'markdown-preview-enhanced:toggle-zen-mode'
+'.platform-win32 atom-text-editor':
+  'f3': 'bookmarks:toggle-bookmark'

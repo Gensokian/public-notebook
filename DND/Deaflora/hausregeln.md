@@ -17,10 +17,11 @@ Ein Charakter muss eine Aktion verwenden, um eine Verschnaufpause einzuleiten. U
 ### Short Rests
 Um die Breather Option weiter zu Unterstützen wird die Short Rest von einer Stunde auf zwei Stunden erhöht -- Dies ist noch ein wenig Testweise.... könnte schlussendlich doch auf eine Stunde wieder runter gedrückt werden.
 
+# Casting
+Zauberklassen wie Sourcerer, Wizzos, Ari, blah blah... sind nicht mehr an die "Nur ein Spell pro Runde" Limite gebunden. Also können diese ihre Bonusaktions Spella auch dann verwenden, wenn sie einen Spell schon vorher abgeworfen haben
+
 ## Wombat
 Um den Kampf ein wenig flüssiger zu gestalten, wurden Folgende Massnahmen getroffen.
-
-Die Spieler bekommen weiterhin Advantage für das Umstellen eines Gegners ABER ich ändere die Umstellungsregel.
 
 ### Flanking
 Flanking ist toll, Advantage für tolles positioning zu bekommen ist auch toll.... aber langweilig.<br>
@@ -30,7 +31,7 @@ ZUSÄTZLICH zu dem normalen Flanking wird ein Gegner auch als FLANKED gewertet, 
 #### Kampf Abläufe
 
 #### Rundenstart
-1.  Am Anfang der Runde habt ihfr eine Minute (10 Sekunden ingame Zeit) um eure nächste Aktion zu besprechen. Da sicher irgendwie Fragen auftauchen, wie etwas genau funktioniert. Bitte ich euch eure ganzen Spells **VOR** der DND Runde nochmals durchzulesen.
+1.  Am Anfang der Runde habt ihr eine Minute um eure nächste Aktion zu besprechen. Da sicher irgendwie Fragen auftauchen, wie etwas genau funktioniert. Bitte ich euch eure ganzen Spells **VOR** der DND Runde nochmals durchzulesen.
 1.  Wenn die Runde Begonnen hat, hat jeder Aktor auf dem Feld 30 Sekunden Zeit, um seine Aktionen durchzuführen (Nach Turn Order)
 1.  Schaden wird Manuell mittels *CTRL + MAUSRAD* im Charactersheet eingetragen. Dies beugt Verwirrungen vor.
 

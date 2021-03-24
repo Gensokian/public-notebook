@@ -7,6 +7,9 @@ Jegliche Rolls sind public zu rollen! Es gibt drei Ausnahmen:
 * Death Saves -> Würfelturm
 * Stealth Rolls -> Würfelturm und Umschrieben
 
+### XP
+Wird nun nicht mehr eingegeben und über Meilensteine freigegeben.
+
 ### Roleplay
 Der DM wird versuchen die Welt stark zu umschreiben und "Out of Character" spielen zu unterbinden.
 
@@ -17,7 +20,7 @@ Ein Charakter muss eine Aktion verwenden, um eine Verschnaufpause einzuleiten. U
 ### Short Rests
 Um die Breather Option weiter zu Unterstützen wird die Short Rest von einer Stunde auf zwei Stunden erhöht -- Dies ist noch ein wenig Testweise.... könnte schlussendlich doch auf eine Stunde wieder runter gedrückt werden.
 
-# Casting
+### Casting
 Zauberklassen wie Sourcerer, Wizzos, Ari, blah blah... sind nicht mehr an die "Nur ein Spell pro Runde" Limite gebunden. Also können diese ihre Bonusaktions Spella auch dann verwenden, wenn sie einen Spell schon vorher abgeworfen haben
 
 ## Wombat
@@ -54,3 +57,7 @@ ZUSÄTZLICH zu dem normalen Flanking wird ein Gegner auch als FLANKED gewertet, 
 
 #### Letzter Stoss
 1.  Ist der Treffer tödlich und der letzte Gegner fällt, so wird dies signalisiert, mit der Aussprache *"Wie willst du es vollenden?"* woraufhin der Spieler den letzten Schlag umschreiben kann. (Exekution). Dies kann dann vom DM weiter umschrieben werden.
+
+# Looting!
+
+Der Loot von Gegnern wird Makaber ausfallen, wenn ihr nicht den Charaktären nachgeht. Beispielsweise hat ein Bär nicht einfach ein Schwert bei sich, aber eventuell findet sich in der Nähe ja eine höhle... :thinking:

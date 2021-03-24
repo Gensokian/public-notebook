@@ -4,6 +4,7 @@ atom-beautify ^
 atom-clock ^
 atom-discord ^
 atom-material-ui ^
+markdown-table-formatter ^
 auto-update-plus ^
 busy-signal ^
 file-icons ^

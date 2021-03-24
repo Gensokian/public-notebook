@@ -7,6 +7,7 @@ atom-material-ui ^
 auto-update-plus ^
 busy-signal ^
 file-icons ^
+project-manager ^
 intentions ^
 language-batchfile ^
 language-powershell ^

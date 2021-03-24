@@ -23,7 +23,9 @@
     titleBar: "hidden"
     uriHandlerRegistration: "always"
   editor:
+    preferredLineLength: 8000
     scrollPastEnd: true
+    showIndentGuide: true
     tabLength: 4
   "file-icons":
     onChanges: true
@@ -53,6 +55,8 @@
   "minimap-autohider":
     TimeToHide: 7500
     TransitionDuration: 250
+  "project-manager":
+    includeGitRepositories: true
   "spell-check":
     locales: [
       "de-CH"

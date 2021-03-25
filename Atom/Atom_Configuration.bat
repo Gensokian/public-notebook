@@ -1,4 +1,5 @@
 @echo off
+echo installing atom Packages...
 apm install ^
 atom-beautify ^
 atom-clock ^

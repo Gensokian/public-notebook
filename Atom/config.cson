@@ -32,6 +32,7 @@
   "markdown-preview-enhanced":
     enableHTML5Embed: true
     enableScriptExecution: true
+    enableZenMode: true
     previewPanePosition: "down"
     previewTheme: "one-dark.css"
     singlePreview: false
@@ -57,6 +58,8 @@
     TransitionDuration: 250
   "project-manager":
     includeGitRepositories: true
+  script:
+    cwdBehavior: "Directory of the script"
   "spell-check":
     locales: [
       "de-CH"

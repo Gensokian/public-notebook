@@ -3,22 +3,22 @@
     dateFormat: "HH:mm - DD:MM:YYYY"
     locale: "de"
     showClockIcon: true
-  "atom-material-ui":
-    colors:
-      abaseColor: "#00e1cc"
-      accentColor: "#009486"
   "auto-update-plus":
     intervalMinutes: 15
     notificationStyle: "Info"
   autosave:
     enabled: true
+  "city-lights-ui":
+    fontSize: 14
+    showTabsInTreeView: true
+    tabSize: "small"
   core:
     closeDeletedFileTabs: true
     closeEmptyWindows: false
     telemetryConsent: "no"
     themes: [
-      "atom-material-ui"
-      "one-dark-syntax"
+      "city-lights-ui"
+      "city-lights-syntax"
     ]
     titleBar: "hidden"
     uriHandlerRegistration: "always"

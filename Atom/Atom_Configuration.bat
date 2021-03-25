@@ -6,9 +6,10 @@ apm install ^
 atom-beautify ^
 atom-clock ^
 atom-discord ^
-atom-material-ui ^
 auto-update-plus ^
 busy-signal ^
+city-lights-ui ^
+city-lights-syntax ^
 file-icons ^
 intentions ^
 language-batchfile ^

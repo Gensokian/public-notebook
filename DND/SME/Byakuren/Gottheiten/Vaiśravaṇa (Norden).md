@@ -11,3 +11,5 @@ Bishamon ist in erster Linie der Gott des Krieges und als solcher auch der Schut
 
 # Abbildung
 Dargestellt wird er oft in voller Rüstung und eine Hoko, eine japanische dreizinkige Hellebarde in der einen, eine Pagode in der anderen Hand; häufig als mächtiger Herrscher, der auf zu Boden geworfenen Dämonen steht. Manchmal wird er auch in einem Feuerkranz dargestellt, vergleichbar einem Heiligenschein.
+
+![Abbildung](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Vaisravana..jpg/330px-Vaisravana..jpg)

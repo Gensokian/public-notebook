@@ -1,30 +1,34 @@
 @echo off
+
 echo installing atom Packages...
+
 apm install ^
 atom-beautify ^
 atom-clock ^
 atom-discord ^
-script ^
 atom-material-ui ^
-markdown-table-formatter ^
 auto-update-plus ^
 busy-signal ^
 file-icons ^
-project-manager ^
 intentions ^
 language-batchfile ^
 language-powershell ^
-linter ^
 linter-ui-default ^
+linter ^
 markdown-preview-enhanced ^
-minimap ^
+markdown-table-formatter ^
 minimap-autohider ^
 minimap-bookmarks ^
 minimap-git-diff ^
 minimap-lens ^
 minimap-selection ^
+minimap ^
+project-manager ^
+script ^
 teletype ^
 title-bar-replacer
+
+echo Done installing packages...
 
 rem Whoops...
 rem del %USERPROFILE%/.atom/config.cson

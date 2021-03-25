@@ -3,6 +3,7 @@ apm install ^
 atom-beautify ^
 atom-clock ^
 atom-discord ^
+script ^
 atom-material-ui ^
 markdown-table-formatter ^
 auto-update-plus ^

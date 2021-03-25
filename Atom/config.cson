@@ -32,6 +32,7 @@
   "markdown-preview-enhanced":
     enableHTML5Embed: true
     enableScriptExecution: true
+    enableTypographer: true
     enableZenMode: true
     previewPanePosition: "down"
     previewTheme: "one-dark.css"

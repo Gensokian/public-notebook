@@ -23,7 +23,7 @@ Um die Breather Option weiter zu Unterstützen wird die Short Rest von einer Stu
 ### Casting
 Zauberklassen wie Sourcerer, Wizzos, Ari, blah blah... sind nicht mehr an die "Nur ein Spell pro Runde" Limite gebunden. Also können diese ihre Bonusaktions Spella auch dann verwenden, wenn sie einen Spell schon vorher abgeworfen haben
 
-## Wombat
+## Combat
 Um den Kampf ein wenig flüssiger zu gestalten, wurden Folgende Massnahmen getroffen.
 
 ### Flanking

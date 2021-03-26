@@ -2,34 +2,33 @@
 
 echo installing atom Packages...
 
-apm install ^
-atom-beautify ^
-atom-clock ^
-atom-discord ^
-auto-update-plus ^
-busy-signal ^
-city-lights-ui ^
-city-lights-syntax ^
-file-icons ^
-intentions ^
-language-batchfile ^
-language-powershell ^
-linter-ui-default ^
-linter ^
-markdown-preview-enhanced ^
-markdown-table-formatter ^
-minimap-autohider ^
-minimap-bookmarks ^
-minimap-git-diff ^
-minimap-lens ^
-minimap-selection ^
-minimap ^
-project-manager ^
-script ^
-teletype ^
-title-bar-replacer
+start cmd /c "apm install atom-beautify && exit"
+start cmd /c "apm install atom-clock && exit"
+start cmd /c "apm install atom-discord && exit"
+start cmd /c "apm install auto-update-plus && exit"
+start cmd /c "apm install busy-signal && exit"
+start cmd /c "apm install city-lights-ui && exit"
+start cmd /c "apm install city-lights-syntax && exit"
+start cmd /c "apm install file-icons && exit"
+start cmd /c "apm install intentions && exit"
+start cmd /c "apm install language-batchfile && exit"
+start cmd /c "apm install language-powershell && exit"
+start cmd /c "apm install linter-ui-default && exit"
+start cmd /c "apm install linter && exit"
+start cmd /c "apm install markdown-preview-enhanced && exit"
+start cmd /c "apm install markdown-table-formatter && exit"
+start cmd /c "apm install minimap-autohider && exit"
+start cmd /c "apm install minimap-bookmarks && exit"
+start cmd /c "apm install minimap-git-diff && exit"
+start cmd /c "apm install minimap-lens && exit"
+start cmd /c "apm install minimap-selection && exit"
+start cmd /c "apm install minimap && exit"
+start cmd /c "apm install project-manager && exit"
+start cmd /c "apm install script && exit"
+start cmd /c "apm install teletype && exit"
+start cmd /c "apm install title-bar-replacer && exit"
 
-echo Done installing packages...
+
 
 rem Whoops...
 rem del %USERPROFILE%/.atom/config.cson

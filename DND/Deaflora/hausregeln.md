@@ -21,7 +21,7 @@ Ein Charakter muss eine Aktion verwenden, um eine Verschnaufpause einzuleiten. U
 Um die Breather Option weiter zu Unterstützen wird die Short Rest von einer Stunde auf zwei Stunden erhöht -- Dies ist noch ein wenig Testweise.... könnte schlussendlich doch auf eine Stunde wieder runter gedrückt werden.
 
 ### Casting
-Zauberklassen wie Sourcerer, Wizzos, Ari, blah blah... sind nicht mehr an die "Nur ein Spell pro Runde" Limite gebunden. Also können diese ihre Bonusaktions Spella auch dann verwenden, wenn sie einen Spell schon vorher abgeworfen haben
+Zauberklassen wie Sourcerer, Wizzos, Artis, blah blah... sind nicht mehr an die "Nur ein Spell pro Runde" Limite gebunden. Also können diese ihre Bonusaktions Spella auch dann verwenden, wenn sie einen Spell schon vorher abgeworfen haben
 
 ## Combat
 Um den Kampf ein wenig flüssiger zu gestalten, wurden Folgende Massnahmen getroffen.

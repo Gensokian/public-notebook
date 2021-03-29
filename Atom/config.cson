@@ -8,17 +8,13 @@
     notificationStyle: "Info"
   autosave:
     enabled: true
-  "city-lights-ui":
-    fontSize: 14
-    showTabsInTreeView: true
-    tabSize: "small"
   core:
     closeDeletedFileTabs: true
     closeEmptyWindows: false
     telemetryConsent: "no"
     themes: [
-      "city-lights-ui"
-      "city-lights-syntax"
+      "seti-ui"
+      "seti-syntax"
     ]
     titleBar: "hidden"
     uriHandlerRegistration: "always"
@@ -60,6 +56,9 @@
     includeGitRepositories: true
   script:
     cwdBehavior: "Directory of the script"
+  "seti-ui":
+    fileIcons: false
+    themeColor: "Green"
   "spell-check":
     locales: [
       "de-CH"

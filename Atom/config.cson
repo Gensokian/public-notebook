@@ -32,7 +32,6 @@
   "markdown-preview-enhanced":
     enableHTML5Embed: true
     enableScriptExecution: true
-    enableTypographer: true
     enableZenMode: true
     previewPanePosition: "down"
     previewTheme: "one-dark.css"
@@ -69,3 +68,7 @@
     squashDirectoryNames: true
   welcome:
     showOnStartup: false
+  zentabs:
+    neverCloseDirty: true
+    neverCloseNew: true
+    neverCloseUnsaved: true

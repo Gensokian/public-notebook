@@ -27,6 +27,7 @@ start cmd /c "apm install project-manager && exit"
 start cmd /c "apm install script && exit"
 start cmd /c "apm install teletype && exit"
 start cmd /c "apm install title-bar-replacer && exit"
+start cmd /c "apm install zentabs && exit"
 
 
 

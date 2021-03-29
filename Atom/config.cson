@@ -58,7 +58,6 @@
     cwdBehavior: "Directory of the script"
   "seti-ui":
     fileIcons: false
-    themeColor: "Green"
   "spell-check":
     locales: [
       "de-CH"

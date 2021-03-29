@@ -30,7 +30,8 @@
     enableScriptExecution: true
     enableZenMode: true
     previewPanePosition: "down"
-    previewTheme: "one-dark.css"
+    previewTheme: "github-dark.css"
+    revealjsTheme: "black.css"
     singlePreview: false
   minimap:
     absoluteMode: true
@@ -63,7 +64,7 @@
       "de-CH"
     ]
   "tree-view":
-    squashDirectoryNames: true
+    squashDirectoryNames: false
   welcome:
     showOnStartup: false
   zentabs:

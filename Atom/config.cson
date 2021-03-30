@@ -13,8 +13,8 @@
     closeEmptyWindows: false
     telemetryConsent: "no"
     themes: [
-      "seti-ui"
-      "seti-syntax"
+      "dark-flat-ui"
+      "an-old-hope-syntax"
     ]
     titleBar: "hidden"
     uriHandlerRegistration: "always"
@@ -26,11 +26,12 @@
   "file-icons":
     onChanges: true
   "markdown-preview-enhanced":
+    codeBlockTheme: "dark.css"
     enableHTML5Embed: true
     enableScriptExecution: true
     enableZenMode: true
     previewPanePosition: "down"
-    previewTheme: "github-dark.css"
+    previewTheme: "atom-dark.css"
     revealjsTheme: "black.css"
     singlePreview: false
   minimap:

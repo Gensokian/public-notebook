@@ -2,11 +2,13 @@
 
 echo installing atom Packages...
 
+start cmd /c "apm install an-old-hope-syntax && exit"
 start cmd /c "apm install atom-beautify && exit"
 start cmd /c "apm install atom-clock && exit"
 start cmd /c "apm install atom-discord && exit"
 start cmd /c "apm install auto-update-plus && exit"
 start cmd /c "apm install busy-signal && exit"
+start cmd /c "apm install dark-flat-ui && exit"
 start cmd /c "apm install file-icons && exit"
 start cmd /c "apm install intentions && exit"
 start cmd /c "apm install language-batchfile && exit"
@@ -23,8 +25,6 @@ start cmd /c "apm install minimap-selection && exit"
 start cmd /c "apm install minimap && exit"
 start cmd /c "apm install project-manager && exit"
 start cmd /c "apm install script && exit"
-start cmd /c "apm install seti-ui && exit"
-start cmd /c "apm install seti-syntax && exit"
 start cmd /c "apm install teletype && exit"
 start cmd /c "apm install title-bar-replacer && exit"
 start cmd /c "apm install zentabs && exit"

@@ -12,10 +12,6 @@
     closeDeletedFileTabs: true
     closeEmptyWindows: false
     telemetryConsent: "no"
-    themes: [
-      "dark-flat-ui"
-      "an-old-hope-syntax"
-    ]
     titleBar: "hidden"
     uriHandlerRegistration: "always"
   editor:

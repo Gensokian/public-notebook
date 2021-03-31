@@ -8,18 +8,10 @@
     notificationStyle: "Info"
   autosave:
     enabled: true
-  "city-lights-ui":
-    fontSize: 14
-    showTabsInTreeView: true
-    tabSize: "small"
   core:
     closeDeletedFileTabs: true
     closeEmptyWindows: false
     telemetryConsent: "no"
-    themes: [
-      "city-lights-ui"
-      "city-lights-syntax"
-    ]
     titleBar: "hidden"
     uriHandlerRegistration: "always"
   editor:
@@ -30,12 +22,13 @@
   "file-icons":
     onChanges: true
   "markdown-preview-enhanced":
+    codeBlockTheme: "one-dark.css"
     enableHTML5Embed: true
     enableScriptExecution: true
-    enableTypographer: true
     enableZenMode: true
     previewPanePosition: "down"
     previewTheme: "one-dark.css"
+    revealjsTheme: "black.css"
     singlePreview: false
   minimap:
     absoluteMode: true
@@ -61,11 +54,17 @@
     includeGitRepositories: true
   script:
     cwdBehavior: "Directory of the script"
+  "seti-ui":
+    fileIcons: false
   "spell-check":
     locales: [
       "de-CH"
     ]
   "tree-view":
-    squashDirectoryNames: true
+    squashDirectoryNames: false
   welcome:
     showOnStartup: false
+  zentabs:
+    neverCloseDirty: true
+    neverCloseNew: true
+    neverCloseUnsaved: true

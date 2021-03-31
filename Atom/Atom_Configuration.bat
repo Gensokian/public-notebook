@@ -7,8 +7,6 @@ start cmd /c "apm install atom-clock && exit"
 start cmd /c "apm install atom-discord && exit"
 start cmd /c "apm install auto-update-plus && exit"
 start cmd /c "apm install busy-signal && exit"
-start cmd /c "apm install city-lights-ui && exit"
-start cmd /c "apm install city-lights-syntax && exit"
 start cmd /c "apm install file-icons && exit"
 start cmd /c "apm install intentions && exit"
 start cmd /c "apm install language-batchfile && exit"
@@ -27,6 +25,7 @@ start cmd /c "apm install project-manager && exit"
 start cmd /c "apm install script && exit"
 start cmd /c "apm install teletype && exit"
 start cmd /c "apm install title-bar-replacer && exit"
+start cmd /c "apm install zentabs && exit"
 
 
 

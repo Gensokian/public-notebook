@@ -3,7 +3,8 @@
   'f6': 'window:toggle-right-dock'
   'f5': 'window:toggle-bottom-dock'
   'alt-shift-O': 'project-manager:list-projects'
-#  'f4': 'tree-view:toggle'
+'atom-workspace atom-text-editor:not([mini])':
+  'ctrl-shift-c': 'editor:toggle-line-comments'
 'atom-text-editor':
   'f12': 'markdown-preview-enhanced:toggle-zen-mode'
 '.platform-win32 atom-text-editor':

@@ -11,6 +11,9 @@
   core:
     closeDeletedFileTabs: true
     closeEmptyWindows: false
+    disabledPackages: [
+      "git-diff"
+    ]
     telemetryConsent: "no"
     titleBar: "hidden"
     uriHandlerRegistration: "always"

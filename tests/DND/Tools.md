@@ -9,7 +9,7 @@ Free to use Soundpad (Kennt ihr sicher, aber ich wills mal notieren :speen: )
 https://tabletopaudio.com/soundpad.html
 
 # Framedate
-Starkes Tool für Umfragen/Datumfindung. (Kann sogar ein passwort erstellt werden usw.) Mehr Funktionen als Doodle, aber weniger mobile friendly
+Starkes Tool für Umfragen/Datumfindung. (Kann sogar ein Passwort erstellt werden usw.) Mehr Funktionen als Doodle, aber weniger mobile friendly
 https://framadate.org/create_poll.php?type=date
 
 

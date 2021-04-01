@@ -10,7 +10,7 @@ start cmd /c "apm install auto-update-plus && exit"
 start cmd /c "apm install busy-signal && exit"
 start cmd /c "apm install file-icons && exit"
 start cmd /c "apm install find-tab && exit"
-start cmd /c "apm install git-diff-plus && exit"
+start cmd /c "apm install git-time-machine && exit"
 start cmd /c "apm install intentions && exit"
 start cmd /c "apm install language-batchfile && exit"
 start cmd /c "apm install language-powershell && exit"
@@ -31,7 +31,6 @@ start cmd /c "apm install tab-title && exit"
 start cmd /c "apm install teletype && exit"
 start cmd /c "apm install tree-view-git-status && exit"
 start cmd /c "apm install zentabs && exit"
-start cmd /c "apm disable git-diff && exit"
 
 
 

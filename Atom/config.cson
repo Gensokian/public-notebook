@@ -28,7 +28,6 @@
     codeBlockTheme: "one-dark.css"
     enableHTML5Embed: true
     enableScriptExecution: true
-    enableZenMode: true
     previewPanePosition: "down"
     previewTheme: "one-dark.css"
     revealjsTheme: "black.css"
@@ -54,7 +53,9 @@
     TimeToHide: 7500
     TransitionDuration: 250
   "project-manager":
+    alwaysOpenInSameWindow: true
     includeGitRepositories: true
+    sortBy: "last modified"
   script:
     cwdBehavior: "Directory of the script"
   "seti-ui":

@@ -5,14 +5,13 @@
     showClockIcon: true
   "auto-update-plus":
     intervalMinutes: 15
-    notificationStyle: "Info"
   autosave:
     enabled: true
   core:
     closeDeletedFileTabs: true
     closeEmptyWindows: false
     disabledPackages: [
-      "git-diff"
+      "markdown-preview"
     ]
     telemetryConsent: "no"
     titleBar: "hidden"
@@ -26,11 +25,13 @@
     onChanges: true
   "markdown-preview-enhanced":
     codeBlockTheme: "one-dark.css"
+    enableCriticMarkupSyntax: true
     enableHTML5Embed: true
     enableScriptExecution: true
     previewPanePosition: "down"
     previewTheme: "one-dark.css"
-    revealjsTheme: "black.css"
+    printBackground: true
+    revealjsTheme: "beige.css"
     singlePreview: false
   minimap:
     absoluteMode: true

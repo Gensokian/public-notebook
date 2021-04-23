@@ -1,42 +1,13 @@
 "*":
-  "atom-clock":
-    dateFormat: "HH:mm - DD:MM:YYYY"
-    locale: "de"
-    showClockIcon: true
-  "auto-update-plus":
-    intervalMinutes: 15
-  autosave:
-    enabled: true
   core:
-    closeDeletedFileTabs: true
-    closeEmptyWindows: false
     disabledPackages: [
       "markdown-preview"
     ]
     telemetryConsent: "no"
     titleBar: "hidden"
-    uriHandlerRegistration: "always"
-  editor:
-    preferredLineLength: 8000
-    scrollPastEnd: true
-    showIndentGuide: true
-    tabLength: 4
   "file-icons":
     onChanges: true
-  "markdown-preview-enhanced":
-    codeBlockTheme: "one-dark.css"
-    enableCriticMarkupSyntax: true
-    enableHTML5Embed: true
-    enableScriptExecution: true
-    previewPanePosition: "down"
-    previewTheme: "one-dark.css"
-    printBackground: true
-    revealjsTheme: "beige.css"
-    singlePreview: false
   minimap:
-    absoluteMode: true
-    adjustMinimapWidthOnlyIfSmaller: false
-    minimapScrollIndicator: true
     plugins:
       bookmarks: true
       bookmarksDecorationsZIndex: 0
@@ -48,28 +19,5 @@
       "minimap-autohiderDecorationsZIndex": 0
       selection: true
       selectionDecorationsZIndex: 0
-    scrollAnimation: true
-    smoothScrolling: true
-  "minimap-autohider":
-    TimeToHide: 7500
-    TransitionDuration: 250
-  "project-manager":
-    alwaysOpenInSameWindow: true
-    includeGitRepositories: true
-    sortBy: "last modified"
-  script:
-    cwdBehavior: "Directory of the script"
-  "seti-ui":
-    fileIcons: false
-  "spell-check":
-    locales: [
-      "de-CH"
-    ]
-  "tree-view":
-    squashDirectoryNames: false
   welcome:
     showOnStartup: false
-  zentabs:
-    neverCloseDirty: true
-    neverCloseNew: true
-    neverCloseUnsaved: true

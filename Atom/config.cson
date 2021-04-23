@@ -7,6 +7,11 @@
     titleBar: "hidden"
   "file-icons":
     onChanges: true
+  "markdown-preview-enhanced":
+    enableTypographer: true
+    previewPanePosition: "down"
+    previewTheme: "one-dark.css"
+    revealjsTheme: "beige.css"
   minimap:
     plugins:
       bookmarks: true
@@ -19,5 +24,9 @@
       "minimap-autohiderDecorationsZIndex": 0
       selection: true
       selectionDecorationsZIndex: 0
+  "title-bar-replacer":
+    general:
+      altGivesFocus: false
+      menuBarMnemonics: false
   welcome:
     showOnStartup: false
